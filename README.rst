@@ -1,6 +1,10 @@
 Data file for NMRforMD
 ======================
 
+This repository was replaced
+following the migration from nmrformd to nmrdfrommd,
+see https://github.com/NMRDfromMD/dataset-protein-in-water
+
 Raw trajectory files used to generate the data and figure from `nmrformd`_,
 toghether with the associate LAMMPS or GROMACS input files.
 
